@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0" frame="void">
+  <tr>
+    <td width="75%" frame="void">
+      <h1>Sen Yang (杨森)</h1>
+      <p><b>yangsen.nudt@hotmail.com</b></p>
+      <p><b>I am a PhD student in the College of Computer, National University of Defense Technology (NUDT). </b></p>
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/LtECoD/yangsen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2018.03- College of Computer Science, National University of Defense Technology, PhD in Computer Science and Technology
+- 2015.09-2017.12 College of Computer Science, National University of Defense Technology, MEng in Computer Science and Technology
+- 2011.09-2015.07  College of Computer Science, National University of Defense Technology, Computer Science and Technology
 
-### Markdown
+## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research is mainly about natural language generation and knowledge graph based question answering. 
 
-```markdown
-Syntax highlighted code block
+## Main Publications
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LtECoD/yangsen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **Sen Yang**, Dawei Feng, Linbo Qiao, Zhigang Kan, Dongsheng Li. Exploring Pre-trained Language Models for Event Extraction and Generation. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019: 5284-5294.
